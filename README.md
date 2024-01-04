@@ -1,5 +1,6 @@
 # HR_Analytics
-HR Analytics Dashboard provides a deep dive into the data, offering valuable insights into our workforce dynamics!
+
+**HR Analytics Dashboard** provides a deep dive into the data, offering valuable insights into our workforce dynamics!
 
 With 218 active employees and an average age of 34, we are constantly striving to create a positive work environment for our team. The attrition rate currently stands at 16.51%, and we've broken it down by gender and age groups to understand the patterns.
 
@@ -10,7 +11,7 @@ Our dashboard has you covered! From Managers to Sales Executives, we've collecte
 Department-wise attrition data is also available, so we can target specific areas for improvement and employee growth. As we strive to create a thriving workplace culture, data-driven decisions play a crucial role in shaping our future.
 
 
-📊 Live Dashboard: https://www.novypro.com/project/employee-attrition-and-job-satisfaction-insights-through-hr-analytics
+**📊 Live Dashboard**: https://www.novypro.com/project/employee-attrition-and-job-satisfaction-insights-through-hr-analytics
 
 
 #dataanalyst #datavisualization #powerbi #hranalytics #datadrivendecisions
